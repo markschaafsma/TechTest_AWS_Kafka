@@ -1,6 +1,6 @@
 # TechTest_AWS_Kafka
 
-### AWS Managed Streaming for Kafka Challenge - 15/04/2019
+### AWS Kafka Streaming Challenge - 15/04/2019
 
 Original challenge comes from:   https://github.com/sarojdongol/event_2/wiki/3:-Challenge
 
@@ -16,10 +16,10 @@ Original challenge comes from:   https://github.com/sarojdongol/event_2/wiki/3:-
 
 ### Information Sources Found
 
-   Simplest:       https://www.sohamkamani.com/blog/2017/11/22/how-to-install-and-run-kafka
-   Simplest:       https://dzone.com/articles/kafka-setup
-   Simple:         https://dzone.com/articles/installing-and-running-kafka-on-an-aws-instance
-   More detailed:  https://labs.sogeti.com/wp-content/uploads/2018/07/PES-Apache-KAFKA-Cluster-SetupAdministrationAWS-V1.0.pdf 
+   - Simplest:       https://www.sohamkamani.com/blog/2017/11/22/how-to-install-and-run-kafka
+   - Simplest:       https://dzone.com/articles/kafka-setup
+   - Simple:         https://dzone.com/articles/installing-and-running-kafka-on-an-aws-instance
+   - More detailed:  https://labs.sogeti.com/wp-content/uploads/2018/07/PES-Apache-KAFKA-Cluster-SetupAdministrationAWS-V1.0.pdf 
 
 
 ### Solution

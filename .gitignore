@@ -1,0 +1,9 @@
+# Ignore security files
+#   *.ppk    - Putty Private Key files
+#   *.pem    - Privacy Enhanced Mail certificate files
+#   *-Public - SSH Public Key files
+*.ppk
+*.pem
+*-Public
+# Ignore specific text files
+Notes - First Attempt.txt
